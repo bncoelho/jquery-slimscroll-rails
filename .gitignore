@@ -15,3 +15,11 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+
+.DS_Store
+
+vendor/.DS_Store
+
+vendor/assets/javascripts/jquery.slimscroll.js
+
+vendor/assets/.DS_Store
